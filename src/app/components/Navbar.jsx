@@ -1,11 +1,15 @@
 "use client";
 import React, { useState } from "react";
-
 import translations from "../locals/languages";
 import { useLanguage } from "./LanguageContext";
 
 const NavBar = () => {
+  const [menuOpen, setMenuOpen] = useState(false); // Estado para controlar la apertura/cierre del menú
   const { language, toggleLanguage } = useLanguage();
+
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
+  };
 
   return (
     <nav className="flex justify-between bg-black bg-opacity-50 pt-1 z-50 text-white w-screen fixed">
@@ -14,7 +18,20 @@ const NavBar = () => {
           TNS
         </a>
 
-        <ul className="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12">
+        {/* Botón para abrir/cerrar el menú en pantallas pequeñas */}
+        <button
+          className="md:hidden ml-auto p-2 text-white"
+          onClick={toggleMenu}
+        >
+          {menuOpen ? "Cerrar" : "Menú"}
+        </button>
+
+        {/* Menú desplegable en pantallas pequeñas */}
+        <ul
+          className={`${
+            menuOpen ? "block" : "hidden md:flex"
+          } md:flex md:px-4 mx-auto font-semibold font-heading space-x-12`}
+        >
           <li>
             <a className="hover:text-gray-200" href="#nosotros">
               {translations[language].navAbout}
