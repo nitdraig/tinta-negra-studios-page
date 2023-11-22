@@ -30,21 +30,21 @@ const translations = {
         serviceDescription:
           "Producimos de principio a fin tu idea, involucrando al artista en todos los aspectos del desarrollo. Posee un limite de revisiones finales.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868523/tns/msnjnxhzr9sdm5g46yn7.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868523/tns/msnjnxhzr9sdm5g46yn7.jpg",
       },
       {
         serviceTitle: "Mix & Mastering",
         serviceDescription:
           "Podes de igual manera traernos tu tema ya producido, nos encargaremos de darle los toques finales basados en referencias provistas por el cliente.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868522/tns/z00v6botyt4ey3yrldm8.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868522/tns/z00v6botyt4ey3yrldm8.jpg",
       },
       {
         serviceTitle: "Otros servicios",
         serviceDescription:
           "Nos encargamos de distribución en múltiples plataformas, realizamos ediciones de video y hasta diseños de páginas web. Consultanos para saber los precios.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868541/tns/jlwurqkvooafvpubw5gl.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868541/tns/jlwurqkvooafvpubw5gl.jpg",
       },
     ],
 
@@ -74,7 +74,7 @@ const translations = {
         projectsDescription:
           "Primer disco producido totalmente en TINTA NEGRA STUDIOS",
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694109408/tns/votsayajzpftih883bqv.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694109408/tns/votsayajzpftih883bqv.webp",
         projectsYt:
           "https://www.youtube.com/watch?v=ArQ0qf_u_AY&list=PLRJsC_cR7I65SVn9M30uE50LnFngoOtQi",
         projectsSp: "https://open.spotify.com/playlist/75RFqvSM5sBtUhMvx0Zn84",
@@ -85,7 +85,7 @@ const translations = {
           "Múltiples singles en diversos estilos fueron producidos de principio a fin en TNS",
 
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694107885/tns/zbheik2iierf2q1men35.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694107885/tns/zbheik2iierf2q1men35.webp",
         projectsYt:
           "https://www.youtube.com/watch?v=iYi3QvQlyTE&list=PLRJsC_cR7I67Stwv-hJyzNB5tyenGfwuk",
         projectsSp:
@@ -96,7 +96,7 @@ const translations = {
         projectsDescription:
           "Varios talentosos decidieron permitirnos formar parte de sus repertorios.",
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694107917/tns/yyvgzbsqsyr9tnxo8ng6.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694107917/tns/yyvgzbsqsyr9tnxo8ng6.webp",
         projectsYt:
           "https://youtube.com/playlist?list=PLahpfxOP7aQ9fjM_fhmJAitAd0JKPk2T0",
         projectsSp:
@@ -156,21 +156,21 @@ const translations = {
         serviceDescription:
           "We produce your idea from start to finish, involving the artist in all aspects of development. It has a limit of final revisions.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868523/tns/msnjnxhzr9sdm5g46yn7.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868523/tns/msnjnxhzr9sdm5g46yn7.jpg",
       },
       {
         serviceTitle: "Mix & Mastering",
         serviceDescription:
           "You can also bring us your already produced theme, we will take care of giving it the final touches based on references provided by the client.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868522/tns/z00v6botyt4ey3yrldm8.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868522/tns/z00v6botyt4ey3yrldm8.jpg",
       },
       {
         serviceTitle: "Other Services",
         serviceDescription:
           "We take care of distribution on multiple platforms, we do video editing and even web page designs. Ask us to know the prices.",
         serviceImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1693868541/tns/jlwurqkvooafvpubw5gl.jpg",
+          "https://res.cloudinary.com/draig/image/upload/v1693868541/tns/jlwurqkvooafvpubw5gl.jpg",
       },
     ],
 
@@ -180,7 +180,7 @@ const translations = {
         projectsDescription:
           "First album produced entirely in TINTA NEGRA STUDIOS",
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694109408/tns/votsayajzpftih883bqv.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694109408/tns/votsayajzpftih883bqv.webp",
         projectsYt:
           "https://www.youtube.com/watch?v=ArQ0qf_u_AY&list=PLRJsC_cR7I65SVn9M30uE50LnFngoOtQi",
         projectsSp: "https://open.spotify.com/playlist/75RFqvSM5sBtUhMvx0Zn84",
@@ -191,7 +191,7 @@ const translations = {
           "Multiple singles in various styles were produced from start to finish on TNS.",
 
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694107885/tns/zbheik2iierf2q1men35.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694107885/tns/zbheik2iierf2q1men35.webp",
         projectsYt:
           "https://www.youtube.com/watch?v=iYi3QvQlyTE&list=PLRJsC_cR7I67Stwv-hJyzNB5tyenGfwuk",
         projectsSp:
@@ -202,7 +202,7 @@ const translations = {
         projectsDescription:
           "Several talented ones decided to allow us to be part of their repertoires.",
         projectImg:
-          "https://res.cloudinary.com/dcu06etml/image/upload/v1694107917/tns/yyvgzbsqsyr9tnxo8ng6.webp",
+          "https://res.cloudinary.com/draig/image/upload/v1694107917/tns/yyvgzbsqsyr9tnxo8ng6.webp",
         projectsYt:
           "https://youtube.com/playlist?list=PLahpfxOP7aQ9fjM_fhmJAitAd0JKPk2T0",
         projectsSp:

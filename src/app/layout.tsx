@@ -27,17 +27,17 @@ export const metadata = {
     "ágil",
   ],
   ogImage:
-    "https://res.cloudinary.com/dcu06etml/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
+    "https://res.cloudinary.com/draig/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
   images: [
     {
-      url: "https://res.cloudinary.com/dcu06etml/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
+      url: "https://res.cloudinary.com/draig/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
       width: 800,
       height: 600,
       alt: "Tinta Negra Studios",
       name: "Tinta Negra Studios",
     },
     {
-      url: "https://res.cloudinary.com/dcu06etml/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
+      url: "https://res.cloudinary.com/draig/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
       width: 1800,
       height: 1600,
       alt: "Tinta Negra Studios",
@@ -50,7 +50,7 @@ export const metadata = {
     description: "A room Studio in Catamarca",
     creator: "Avellaneda Agustín",
     images: [
-      "https://res.cloudinary.com/dcu06etml/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
+      "https://res.cloudinary.com/draig/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
     ],
   },
 
@@ -69,7 +69,7 @@ export const metadata = {
   },
   openGraph: {
     images:
-      "https://res.cloudinary.com/dcu06etml/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
+      "https://res.cloudinary.com/draig/image/upload/v1694114443/tns/zcbd2pk5rwxa0kxbzv8s.webp",
   },
 };
 

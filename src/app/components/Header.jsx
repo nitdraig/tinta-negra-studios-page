@@ -7,7 +7,7 @@ import { useLanguage } from "./LanguageContext";
 
 const Header = () => {
   const headerStyle = {
-    backgroundImage: `url("https://res.cloudinary.com/dcu06etml/image/upload/v1693868550/tns/bqcz8bxrmwhxtjuvotwb.jpg")`,
+    backgroundImage: `url("https://res.cloudinary.com/draig/image/upload/v1693868550/tns/bqcz8bxrmwhxtjuvotwb.jpg")`,
     backgroundSize: "cover",
     backgroundPosition: "center",
   };

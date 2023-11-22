@@ -19,7 +19,7 @@ const About = () => {
         <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
           <div className="md:5/12 lg:w-5/12">
             <img
-              src="https://res.cloudinary.com/dcu06etml/image/upload/v1693869270/tns/pmlexbd3ip6zraqijzhk.png"
+              src="https://res.cloudinary.com/draig/image/upload/v1693869270/tns/pmlexbd3ip6zraqijzhk.png"
               className="rounded-full"
               alt="Tinta Negra Studios"
             />
