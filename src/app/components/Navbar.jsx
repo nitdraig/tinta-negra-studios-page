@@ -57,9 +57,11 @@ const NavBar = () => {
               {translations[language].navContact}
             </a>
           </li>
-          <div className="relative inline-block w-16 h-8 bg-gray-400 rounded-full p-1">
+          <div
+            onClick={toggleLanguage}
+            className="relative inline-block w-16 h-8 bg-gray-400 rounded-full p-1"
+          >
             <button
-              onClick={toggleLanguage}
               className={`absolute inset-0 w-8 h-8 bg-white rounded-full transition-transform duration-300 transform ${
                 language === "en" ? "translate-x-8" : ""
               }`}
