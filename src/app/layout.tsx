@@ -1,9 +1,7 @@
 import "./globals.css";
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Merriweather } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
-
+const merriweather = Merriweather({ subsets: ["latin"], weight: "400" });
 export const metadata = {
   title: "Tinta Negra Studios",
   description: "A room Studio in Catamarca",
@@ -80,7 +78,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-      <body className={inter.className}>{children}</body>
+      <body className={merriweather.className}>{children}</body>
     </html>
   );
 }
